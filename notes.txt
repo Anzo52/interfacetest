@@ -1,0 +1,2 @@
+About deploying:
+As long as on-chain address of contract is known, its functions can be called through an interface, on Etherscan, or through library like Web3J or web3py.
